@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RITAAH
+- 👋 Hi, I’m @RITA
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Full Stack Dev
 - 📫 How to reach me, gmail
